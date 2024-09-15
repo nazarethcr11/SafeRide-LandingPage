@@ -1,2 +1,3 @@
 # SafeRide-LandingPage
-Curso de Arquitectura de software
+https://nazarethcr11.github.io/SafeRide-LandingPage/
+
