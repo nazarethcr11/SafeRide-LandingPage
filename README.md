@@ -1,8 +1,9 @@
 # Safe Ride
 
-Welcome to **Safe Ride** [Landing Page](https://nazarethcr11.github.io/SafeRide-LandingPage/)– your gateway to exploring the world on two wheels! Safe Ride is a bike routes application designed to promote a healthy and active lifestyle by helping you discover new places, stay motivated, and push your limits. With a focus on safety and enjoyment, our app provides well-crafted routes that ensure a fun cycling experience.
+Welcome to **Safe Ride** – your gateway to exploring the world on two wheels! Safe Ride is a bike routes application designed to promote a healthy and active lifestyle by helping you discover new places, stay motivated, and push your limits. With a focus on safety and enjoyment, our app provides well-crafted routes that ensure a fun cycling experience.
 
 ## 🚀 Project Overview
+[PARA VER LA PAGINA PRESIONE AQUI](https://nazarethcr11.github.io/SafeRide-LandingPage/)
 
 Safe Ride aims to encourage cycling by offering precise route information, connecting cyclists through a supportive community, and providing real-time indicators for safety and traffic. Whether you're an amateur or a professional cyclist, Safe Ride is designed to cater to all skill levels and enhance your biking experience.
 
